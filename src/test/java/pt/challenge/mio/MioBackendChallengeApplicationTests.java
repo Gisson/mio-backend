@@ -1,0 +1,16 @@
+package pt.challenge.mio;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class MioBackendChallengeApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
